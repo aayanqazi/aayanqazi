@@ -85,7 +85,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="75" /></a>  
 </a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px;" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" alt="Next JS" height="75" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px;" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next JS" height="75" /></a>  
+</a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px;" src="https://www.kindpng.com/picc/m/16-164468_cypress-io-logo-hd-png-download.png" alt="Cypress" height="75" /></a>  
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px;" src="https://www.pngkit.com/png/full/222-2224799_react-native-development-react-native-logo-png.png" alt="React Native" height="75" /></a>  
 </div>  
 
 <br/>  
