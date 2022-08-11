@@ -84,6 +84,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="75" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="75" /></a>  
+</a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px;" src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" alt="Next JS" height="75" /></a>  
 </div>  
 
 <br/>  
@@ -113,6 +115,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
