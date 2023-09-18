@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Panacloud](https://www.panacloud.ai/)  
+- 🔭 I’m currently working on [Accelchain](https://accelchain.xyz)  
   
 
 - 💻 Recently worked for [Staking Rewards](stakingrewards.com) as a Senior Frontend Developer since last 2 years and 5 months  
